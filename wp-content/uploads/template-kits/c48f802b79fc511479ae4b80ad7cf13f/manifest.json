@@ -1,0 +1,1506 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Psikolog - Psychology & Counseling Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/askit.dextheme.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Psikolog Booking MetForm",
+            "screenshot": "screenshots\/psikolog-booking-metform.jpg",
+            "source": "templates\/psikolog-booking-metform.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/psikolog-booking-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Psikolog Contact MetForm",
+            "screenshot": "screenshots\/psikolog-contact-metform.jpg",
+            "source": "templates\/psikolog-contact-metform.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/psikolog-contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Psikolog Footer",
+            "screenshot": "screenshots\/psikolog-footer.jpg",
+            "source": "templates\/psikolog-footer.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/psikolog-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Psikolog Header",
+            "screenshot": "screenshots\/psikolog-header.jpg",
+            "source": "templates\/psikolog-header.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/psikolog-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/gallery\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Appointment",
+            "screenshot": "screenshots\/appointment.jpg",
+            "source": "templates\/appointment.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/appointment\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Therapists",
+            "screenshot": "screenshots\/therapists.jpg",
+            "source": "templates\/therapists.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/therapists\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/about-me\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/askit.dextheme.net\/psikolog\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.5.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "4.0.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.30.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Overlay-6.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/Overlay-6-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/psikolog-footer.json",
+                    "name": "Psikolog Footer"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 40002,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Psikolog-1.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/Psikolog-1.png",
+            "templates": [
+                {
+                    "source": "templates\/psikolog-footer.json",
+                    "name": "Psikolog Footer"
+                },
+                {
+                    "source": "templates\/psikolog-header.json",
+                    "name": "Psikolog Header"
+                }
+            ],
+            "filesize": 7651,
+            "dimensions": [
+                293,
+                81
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "WUWENFX.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/WUWENFX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 238549,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "ESNGQZM.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/ESNGQZM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 231247,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "4967CUR.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/4967CUR-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 236757,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "L9KTTNS.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/L9KTTNS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 234790,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CNAM6BL.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CNAM6BL-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 239411,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "Z48HLNN.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/Z48HLNN.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 113750,
+            "dimensions": [
+                453,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "GDMHLR4.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/GDMHLR4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109815,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CZLQXN7.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CZLQXN7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 72467,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "5BCJ884.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/5BCJ884.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 116920,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "JSE68RM.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/JSE68RM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 91619,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "HCFNJZK.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/HCFNJZK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 180772,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "MAJ7XT5.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/MAJ7XT5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 79123,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "KMNLLCV.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/KMNLLCV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 72042,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "6R3XEZ4a.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/6R3XEZ4a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 66025,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "NACR8SV.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/NACR8SV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 72889,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue1.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue1.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4843,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue2.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue2.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3571,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue4.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue4.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2311,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue3.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue3.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2910,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue5.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue5.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3480,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "7NUHLGblue6.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/7NUHLGblue6.png",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2196,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "UETR3EK.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/UETR3EK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 244478,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "6YGCWT7.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/6YGCWT7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 244294,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "T2DNRM6.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/T2DNRM6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                }
+            ],
+            "filesize": 212733,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "Overlay-5.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/Overlay-5.png",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29002,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "UBNG9AEii.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/UBNG9AEii.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41677,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "UBNG9AEk.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/UBNG9AEk.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 159810,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "UBNG9AEn.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/UBNG9AEn.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 163052,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "UBNG9AEo.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/UBNG9AEo.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 118218,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "Y5Q7LCYb.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/Y5Q7LCYb.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 108484,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "5CRX9WC.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/5CRX9WC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 138842,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "WCKKHBK.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/WCKKHBK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 106224,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "UZCPAAS.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/UZCPAAS.jpg",
+            "templates": [
+                {
+                    "source": "templates\/appointment.json",
+                    "name": "Appointment"
+                },
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 104050,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "BYVRZSB.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/BYVRZSB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 245590,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3d.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3d.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7937,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3e.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3e.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6454,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3f.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3f.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9493,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3g.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3g.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8594,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3h.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3h.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11761,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3i.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3i.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 8647,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3j.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3j.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10112,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3k.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CS79RA3k.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 10311,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CA758KN.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/CA758KN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                }
+            ],
+            "filesize": 202313,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "RNMH6NJ.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/RNMH6NJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                }
+            ],
+            "filesize": 68679,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "6QX5YQ4.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/6QX5YQ4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                }
+            ],
+            "filesize": 106415,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "JJJUAJX.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/JJJUAJX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                }
+            ],
+            "filesize": 68110,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "GPKS224.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/GPKS224.jpg",
+            "templates": [
+                {
+                    "source": "templates\/therapists.json",
+                    "name": "Therapists"
+                }
+            ],
+            "filesize": 185466,
+            "dimensions": [
+                650,
+                650
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "Y5Q7LCYa.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/Y5Q7LCYa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 208654,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "Signature.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/Signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 3550,
+            "dimensions": [
+                300,
+                49
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "PE8CBU7.jpg",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2025\/01\/PE8CBU7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 57585,
+            "dimensions": [
+                650,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3a1.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/CS79RA3a1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10002,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3b1.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/CS79RA3b1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10811,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        },
+        {
+            "filename": "CS79RA3c1.png",
+            "thumbnail_url": "https:\/\/askit.dextheme.net\/psikolog\/wp-content\/uploads\/sites\/28\/2024\/12\/CS79RA3c1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9163,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/9MBLFXKVY5"
+        }
+    ]
+}
